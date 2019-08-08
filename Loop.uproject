@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.14",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "VegaThreads",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9a0ebab90ae64fb3bbfaeb01cf6fe32f"
+		}
+	]
+}
